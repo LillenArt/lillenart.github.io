@@ -1,2 +1,8 @@
 # Welcome
-This repository was dedicated to my personal art blog which has moved to https://www.artgram.co/LillenArt/blog Thank you!
+- This repository serves as an archive for my old blog.
+- My blog has MOVED to https://www.artgram.co/LillenArt/blog
+
+
+# Credits 
+- Thank you to everyone who made this blog possible. 
+- http://lillenart.github.io/thanks.html 
