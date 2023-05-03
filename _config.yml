@@ -4,3 +4,12 @@ description: Lillen Art's Blog (Moved to Artgram)
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
+
+plugins:
+  - jekyll-redirect-from
+
+redirects:
+  - from: https://lillenart.github.io/art_process/2022/02/13/how-to-paint-fantasy-hair/?utm_source=Art+blog&utm_medium=post&utm_campaign=How+to+Paint+Fantasy+Hair+Tutorial
+    to: https://lillenart.github.io/art_process/2022/02/13/how-to-paint-fantasy-hair.html
+  - from: https://lillenart.github.io/art_process/2020/09/28/hajimaru-tutorial/
+    to: https://lillenart.github.io/art_process/2020/09/28/hajimaru-tutorial.html
