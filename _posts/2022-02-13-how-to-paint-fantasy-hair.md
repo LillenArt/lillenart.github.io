@@ -4,6 +4,9 @@ title: How to Paint Fantasy Hair
 category: [Art_Process]
 tags: [tutorial, art_process]
 author: Synthia Lillendandie (Lillen Art)
+redirect_from: 
+- https://lillenart.github.io/art_process/2022/02/13/how-to-paint-fantasy-hair/?utm_source=Art+blog&utm_medium=post&utm_campaign=How+to+Paint+Fantasy+Hair+Tutorial
+- https://lillenart.github.io/art_process/2022/02/13/how-to-paint-fantasy-hair.html
 ---
 ![How to paint fantasy hair](/assets/images/fantasy_hair/0.jpg)
 I painted this chocolate strawberry fantasy hair study recently and I want to share my art process with all of you. Free tutorial!

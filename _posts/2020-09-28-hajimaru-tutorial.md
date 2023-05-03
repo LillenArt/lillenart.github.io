@@ -4,6 +4,9 @@ title: Hajimaru - Art Process & Tutorial
 category: [Art_Process]
 tags: [tutorial, art_process]
 author: Synthia Lillendandie (Lillen Art)
+redirect_from: 
+    - https://lillenart.github.io/art_process/2020/09/28/hajimaru-tutorial/
+    - https://lillenart.github.io/art_process/2020/09/28/hajimaru-tutorial.html
 ---
 ![Hajimaru Tutorial](/assets/images/Hajimaru/hajimaru_tutorial.jpg)
 
