@@ -1,0 +1,13 @@
+{
+  "name": "my-github-pages-site",
+  "version": "1.0.0",
+  "engines": {
+    "node": "16.x"
+  },
+  "scripts": {
+    "start": "bundle exec jekyll serve"
+  },
+  "dependencies": {
+    "jekyll": "^4.2.0"
+  }
+}
