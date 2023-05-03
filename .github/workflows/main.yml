@@ -1,0 +1,16 @@
+- uses: actions/checkout@v2
+  with:
+    submodules: 'recursive'
+    ref: 'main'
+  runs-on: ubuntu-latest
+  env:
+    JEKYLL_PAT: ${{ secrets.JEKYLL_PAT }}
+  # Add the following line to use Node.js 16
+  runs-on: ubuntu-latest
+  defaults:
+    run:
+      working-directory: ./
+      shell: bash
+      # Add the following line to use Node.js 16
+      shell: bash
+      run: npm install
