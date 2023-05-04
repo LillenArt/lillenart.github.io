@@ -60,7 +60,7 @@ I used [Adobe Color](https://color.adobe.com/create/color-wheel) to come up with
 ## 8. Applying Basic Colors
 Now that we have a solid foundation of values and edges, we can move on to color, but it's important to keep what we've already established. I don't like painting over the value layer or using multiply / overlay layer modes because they can easily destroy your values. In addition, simply adding a color layer over black tones can make the end result look gray and lifeless. If you want a visual example of the issues with grayscale, I recommend watching Marco Bucci's '[Grayscale to Color](https://www.youtube.com/watch?v=lJitss58XKc)' as it demonstrates some of these problems and more. 
 
-One good solution to these issues is to use **Gradient Maps**. As opposed to using a dull color wash over gray values, Gradient Maps allow the artist to  **[hue shift](https://www.deviantart.com/cgcookie/art/Exercise-41-Practice-Sheet-Color-Shifting-573229761)**, selecting individual colors that correspond to each of the values. 
+One good solution to these issues is to use **Gradient Maps**. As opposed to using a dull color wash over gray values, Gradient Maps allow the artist to 'Hue Shift', selecting individual colors that correspond to each of the values. 
 
 In this example, I merge all the layers together and duplicate it. Take the top layer and create a gradient map. Try out different colors based on your pre-selected palette. It may take a few tries to get the right combination of colors. Slide each individual color around to try and match it to the corresponding value. 
 
