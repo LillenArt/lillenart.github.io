@@ -1,5 +1,7 @@
 on:
   push:
+    branches:
+      - master
   pull_request:
     types: [opened, synchronize]
 jobs:
@@ -12,11 +14,13 @@ jobs:
         with:
           ruby-version: 2.7
           bundler-cache: true
-      - name: build
-        run: script/bootstrap
-      - name: test
-        run: script/cibuild
       - name: Set up Node.js
         uses: actions/setup-node@v2
         with:
           node-version: '16.x'
+          # Optional: specify npm as the package manager
+          # npm: true
+      - name: build
+        run: script/bootstrap
+      - name: test
+        run: script/cibuild
