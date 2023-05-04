@@ -11,7 +11,9 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
     <![endif]-->
     {% include head-custom.html %}
-    <script src="{{ site.baseurl }}/assets/js/node-version.js"></script>
+    <script>
+      console.log("Node.js version:", process.version);
+    </script>
   </head>
   <body>
     <div class="wrapper">
