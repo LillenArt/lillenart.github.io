@@ -1,6 +1,6 @@
 # Welcome
 - This repository serves as an archive for my old blog.
-- My blog has MOVED to https://www.artgram.co/LillenArt/blog
+- My blog has MOVED to (TBA)
 
 
 # Credits 
